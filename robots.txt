@@ -13,4 +13,4 @@ Allow: /
 User-agent: Google-Extended
 Allow: /
 
-Sitemap: https://jeffguo-collab.github.io/jeff-guo/sitemap.xml
+Sitemap: https://jeff-guo.com/sitemap.xml
